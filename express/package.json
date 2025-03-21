@@ -1,0 +1,12 @@
+{
+  "name": "kg_iphuntershield_express",
+  "version": "1.0.0",
+  "description": "Nginx + Express in one container demo for KG_IPhunterShield",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
